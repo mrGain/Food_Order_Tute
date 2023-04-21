@@ -1,5 +1,5 @@
 
-import styles from './MealsSummary.modules.css';
+import styles from './MealsSummary.module.css';
 
 const MealsSummary = (props) => {
     return (
